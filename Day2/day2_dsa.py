@@ -32,3 +32,6 @@ for num in arr:
         second_largest = num
 
 print(second_largest)
+
+#Time complexity o(n) 
+#Space complexity o(1) 
